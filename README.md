@@ -58,8 +58,8 @@
 
 ### 📫 Contáctame
 
-- ✉️ **Correo:** hugofrancisco.luis@upchiapas.edu.mx  
-- 💼 [LinkedIn](https://www.linkedin.com/in/hugofranciscoinclan)  
+- ✉️ **Correo:** hugofranciscoluisinclan@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com)  
 - 🌐 [Mi Portafolio (próximamente)](#)
 
 ---
