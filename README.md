@@ -14,7 +14,7 @@
 ### 👨‍💻 Sobre mí
 
 - 🎓 Estudiante de **Ingeniería en Software** en la Universidad Politécnica de Chiapas.
-- 🔭 Actualmente desarrollando proyectos **Full Stack** con **Go, React y MySQL**.
+- 🔭 Actualmente desarrollando proyectos **Full Stack** con *Kotlin, Python y MySQL**.
 - 🚀 Apasionado por la automatización, la eficiencia y las arquitecturas limpias y escalables.
 - 🧠 Fiel defensor del aprendizaje autodidacta, el código limpio y las buenas prácticas.
 - 📈 En constante formación sobre APIs, microservicios, sistemas distribuidos y seguridad web.
