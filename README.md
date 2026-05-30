@@ -219,7 +219,7 @@ Proyectos de ingeniería presentados y evaluados ante comité académico con tec
 | 🔐 Administración de Amenazas Cibernéticas | Cisco Networking Academy | Security |
 | 🌐 Curso de Redes | Cisco Networking Academy | Networking |
 | 💻 Sistemas Operativos | Cisco Networking Academy | Systems |
-| 🏆 Hackatón Chiapas 2024 | — | Competencia |
+| 🏆 Hackatón Chiapas 2024 | Vara Networking | Competencia |
 
 </div>
 
