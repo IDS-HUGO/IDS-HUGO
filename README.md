@@ -18,6 +18,17 @@
 
 ## 👨‍💻 Sobre mí
 
+Soy **Ingeniero en Software** (9.° cuatrimestre, Universidad Politécnica de Chiapas) con enfoque en **desarrollo backend escalable**, **inteligencia artificial** y **procesamiento de imágenes**. Me especializo en construir sistemas robustos con **Go** bajo arquitectura hexagonal, servicios web con **Python + FastAPI** y frontends modernos con **React.js**.
+
+Realicé **dos estancias profesionales en el INAOE** (Instituto Nacional de Astrofísica, Óptica y Electrónica), donde desarrollé un sistema de gestión de becas y una API de notificaciones institucionales — ambos en producción. Complemento el stack con conocimientos en **redes neuronales (CNN)**, **visión computacional con OpenCV**, despliegue en **Docker y AWS**, y certificaciones en **AWS Academy** y **ciberseguridad Cisco**.
+
+Me comunico bien en equipo, trabajo con metodologías ágiles y me adapto rápido a nuevas tecnologías. Estoy disponible para oportunidades laborales o colaboraciones.
+
+> 🔧 **Backend** · 🌐 **Full Stack** · 🤖 **IA & Visión** · ☁️ **Cloud** · 🔐 **Ciberseguridad**
+
+<details>
+<summary>👨‍💻 <strong>Ver versión en código (para los devs)</strong></summary>
+
 ```go
 package main
 
@@ -66,6 +77,8 @@ func main() {
 	fmt.Printf("✅ Disponible para oportunidades: %v\n", hugo.Available)
 }
 ```
+
+</details>
 
 ---
 
